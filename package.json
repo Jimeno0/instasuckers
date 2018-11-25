@@ -1,0 +1,22 @@
+{
+  "name": "instasuckers",
+  "version": "0.0.1",
+  "description": "full all the follow4follow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimeno0/instasuckers.git"
+  },
+  "keywords": [
+    "instagram"
+  ],
+  "author": "jimeno0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jimeno0/instasuckers/issues"
+  },
+  "homepage": "https://github.com/Jimeno0/instasuckers#readme"
+}
